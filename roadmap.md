@@ -1,0 +1,14 @@
+# Mountain Division
+- [x] Build black, military-green and gold shared layout and mobile navigation.
+- [x] Create home, history, organization, news, leadership and separate recruitment pages.
+- [x] Add recruitment Discord and Roblox controls with the supplied real URLs.
+- [x] Verify pages, navigation and mobile layout.
+- [x] Add applicant interests and experience form on recruitment page.
+- [x] Connect real AI Gateway recommendations with safe server-only calls and failure handling.
+- [x] Test live recommendations and mobile form.
+- [x] Activate the supplied Discord invitation and Roblox map links on recruitment.
+- [x] Add member sign-in, Roblox profiles and private saved AI recommendations.
+- [x] Rewrite the history page with the verified Northern Army and 4th Division facts.
+- [ ] Provide the full website source code as a downloadable copy.
+- [ ] Verify member access and isolation between accounts.
+- [ ] Replace organization and leadership samples with verified division information (awaiting owner details).
